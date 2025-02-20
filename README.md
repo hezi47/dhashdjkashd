@@ -1,4 +1,4 @@
-<h1 align="center">SGP</h1>
+<h1 style="text-align: left;">SGP</h1>
 
 This repository contains code to reproduce results from the paper:
 
